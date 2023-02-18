@@ -12,6 +12,6 @@ public class TrialClass {
 		System.out.print("JENKINS is UP and RUNNING");
 	}
 	public static void testing() {
-		System.out.print("testing");
+		System.out.print("testing...");
 	}
 }
