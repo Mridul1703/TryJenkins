@@ -9,7 +9,7 @@ public class TrialClass {
 		System.out.print("JENKINS");
 	}
 	public static void show() {
-		System.out.print("JENKINS is UP and RUNNING");
+		System.out.print("JENKINSS is UP and RUNNING");
 	}
 	public static void testing() {
 		System.out.print("testing...");
